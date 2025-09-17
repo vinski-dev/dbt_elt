@@ -1,0 +1,148 @@
+[
+  {
+    "customer_id": 1,
+    "transaction_details": [
+      {
+        "transaction_id": 1001,
+        "amount": 120.5,
+        "transaction_date": "1/15/2024",
+        "filename": "transactions.json"
+      },
+      {
+        "transaction_id": 1003,
+        "amount": 330,
+        "transaction_date": "1/18/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 2,
+    "transaction_details": [
+      {
+        "transaction_id": 1002,
+        "amount": 220.75,
+        "transaction_date": "1/17/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 3,
+    "transaction_details": [
+      {
+        "transaction_id": 1004,
+        "amount": 450.0,
+        "transaction_date": "1/20/2024",
+        "filename": "transactions.json"
+      },
+      {
+        "transaction_id": 1005,
+        "amount": 150.25,
+        "transaction_date": "1/22/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 4,
+    "transaction_details": [
+      {
+        "transaction_id": 1006,
+        "amount": 300.0,
+        "transaction_date": "1/19/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 5,
+    "transaction_details": [
+      {
+        "transaction_id": 1007,
+        "amount": 75.5,
+        "transaction_date": "1/21/2024",
+        "filename": "transactions.json"
+      },
+      {
+        "transaction_id": 1008,
+        "amount": 500.0,
+        "transaction_date": "1/23/2024",
+        "filename": "transactions.json"
+      },
+      {
+        "transaction_id": 1009,
+        "amount": 200.0,
+        "transaction_date": "1/25/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 6,
+    "transaction_details": [
+      {
+        "transaction_id": 1010,
+        "amount": 180.75,
+        "transaction_date": "1/24/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 7,
+    "transaction_details": [
+      {
+        "transaction_id": 1011,
+        "amount": 620.0,
+        "transaction_date": "1/26/2024",
+        "filename": "transactions.json"
+      },
+      {
+        "transaction_id": 1012,
+        "amount": 90.0,
+        "transaction_date": "1/28/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 8,
+    "transaction_details": [
+      {
+        "transaction_id": 1013,
+        "amount": 350.5,
+        "transaction_date": "1/27/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 9,
+    "transaction_details": [
+      {
+        "transaction_id": 1014,
+        "amount": 410.0,
+        "transaction_date": "1/29/2024",
+        "filename": "transactions.json"
+      },
+      {
+        "transaction_id": 1015,
+        "amount": 125.0,
+        "transaction_date": "1/30/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  },
+  {
+    "customer_id": 10,
+    "transaction_details": [
+      {
+        "transaction_id": 1016,
+        "amount": 275.25,
+        "transaction_date": "1/31/2024",
+        "filename": "transactions.json"
+      }
+    ]
+  }
+]

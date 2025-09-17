@@ -1,0 +1,11 @@
+customer_id,customer_name,email,filename
+1,John@Doe,john.doe@example.com,'customers.csv'
+2,Ana#Smith,ana.smith@example.com,'customers.csv'
+3,Mike$Brown,mike.brown@example.com,'customers.csv'
+4,Linda%White,linda.white@example.com,'customers.csv'
+5,James&Green,james.green@example.com,'customers.csv'
+6,Susan*Black,susan.black@example.com,'customers.csv'
+7,Robert!Gray,robert.gray@example.com,'customers.csv'
+8,Patricia(Blue),patricia.blue@example.com,'customers.csv'
+9,Michael)Yellow,michael.yellow@example.com,'customers.csv'
+10,Barbara+Orange,barbara.orange@example.com,'customers.csv'
