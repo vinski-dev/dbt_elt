@@ -16,7 +16,7 @@ Tech Skills
 
 GitHub Stats
 
-![vinski-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![vinski-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=vinski-dev&show_icons=true&theme=radical)
 
 Featured Projects
 
