@@ -1,14 +1,14 @@
 # Hi, I'm Alvin Paano 👋
 
 About Me
-I'm a passionate software developer specializing in full-stack web development and data-driven applications. I work with JavaScript, Python, and cloud technologies to build scalable solutions.
+Building the bridge between database logic and statistical integrity. Simulation-driven, fairness-focused engineering from source to schedule.
 
 - 🔭 Currently working on [AwesomeProject](https://github.com/yourusername/awesomeproject)
 - 🌱 Learning React, TypeScript, and Docker
 - 👯 Open to collaborate on open-source projects
-- 💬 Ask me about JavaScript, Python, and DevOps
-- 📫 Reach me at: your.email@example.com
-- ⚡ Fun fact: I love solving puzzles and playing chess
+- 💬 Ask me about Statistics, Python, and DevOps
+- 📫 Reach me at: levinne521@gmail.com
+- ⚡ Fun fact: When I’m not coding, you’ll find me sharpening my reflexes on the badminton court.
 
 Tech Skills
 
